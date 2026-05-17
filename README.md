@@ -8,7 +8,7 @@
 
 [中文](#中文版) · [English](#english) · [GitHub](https://github.com/wilingna)
 
-![status](https://img.shields.io/badge/status-v0.0.1-orange) ![license](https://img.shields.io/badge/license-MIT-blue) ![built_by](https://img.shields.io/badge/built_by-wilingna-purple)
+![status](https://img.shields.io/badge/status-v0.1.0-green) ![license](https://img.shields.io/badge/license-MIT-blue) ![built_by](https://img.shields.io/badge/built_by-wilingna-purple)
 
 </div>
 
@@ -104,6 +104,8 @@ builder-lens/
 └── ROADMAP.md                 # 详细开发计划
 ```
 
+📌 **第一份真实 sample brief**:[examples/2026-05-17-v0.1.0-sample-brief.md](examples/2026-05-17-v0.1.0-sample-brief.md)(基于真实 feed,2026-05-17 ship)
+
 ### 致谢
 
 本项目数据采集层 fork 自 [@zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)。
@@ -115,6 +117,8 @@ zara 提供了 32 位 builder + 5 个播客的中央 feed,Builder Lens 在此之
 - ➕ 三镜头并行解读(本项目灵魂)
 - ➕ 应对建议生成
 - ➕ Web 化分发
+
+*Builder Lens 的 X 数据上游基于 zarazhang/follow-builders skill 构建。*
 
 ### License
 
@@ -161,6 +165,8 @@ Builder Lens is the product of those six capabilities — and the proof of them.
 
 (Same as Chinese version above.)
 
+📌 **First sample brief**: [examples/2026-05-17-v0.1.0-sample-brief.md](examples/2026-05-17-v0.1.0-sample-brief.md) (based on real feed, shipped 2026-05-17)
+
 ### Acknowledgements
 
 The data layer of this project is forked from [@zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders). zara provides the central feed of 32 builders + 5 podcasts. Builder Lens adds on top of it:
@@ -170,6 +176,8 @@ The data layer of this project is forked from [@zarazhangrui/follow-builders](ht
 - ➕ Three-lens parallel interpretation (the soul of this project)
 - ➕ Actionable advice generation
 - ➕ Web-based distribution
+
+*Builder Lens is powered by zarazhang/follow-builders skill for upstream X data.*
 
 ### Built by
 

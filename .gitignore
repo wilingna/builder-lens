@@ -35,3 +35,14 @@ state-feed.json
 # Cache
 .cache/
 *.cache
+
+# 私人工作笔记(不 ship 到公开仓库)
+JOURNAL/
+learning-log.md
+*.private.md
+
+# 编辑器临时文件(扩展)
+*~
+
+# Claude Code session 状态(本地工具产物,不属于项目)
+.claude-local/
