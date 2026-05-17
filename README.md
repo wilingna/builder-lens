@@ -34,7 +34,7 @@ Builder Lens 做的是**把"技术内容"翻译成"对你的影响"**。
 
 ### 为什么是我做这件事
 
-我叫会灵,50 岁,前 500 强 HR 负责人,半年前开始全力转型 AI builder。
+我是会灵,50 岁,北京大学， 500 强 HR 负责人,半年前开始全力转型 AI builder。
 
 2025 年 11 月开始自学 AI,半年内发布了 9 个 GitHub 开源项目:
 
@@ -146,7 +146,7 @@ Every interpretation includes **actionable advice for the next week, month, and 
 
 ### Why I'm building this
 
-I'm Wiling (会灵), 50, former Fortune 500 HR director, and a full-time AI builder since late 2025.
+I'm Wiling (会灵), 50, Peking University, Fortune 500 HR director, and a full-time AI builder since late 2025.
 
 I started teaching myself AI in November 2025. In six months, I shipped 9 open-source projects on GitHub.
 
